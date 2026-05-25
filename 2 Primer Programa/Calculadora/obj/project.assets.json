@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\el10d\\.nuget\\packages\\": {}
+    "C:\\Users\\arturo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\el10d\\OneDrive\\Escritorio\\Curso C# Nivel 1\\2 Primer Programa\\Calculadora\\Calculadora.csproj",
+      "projectUniqueName": "C:\\Users\\arturo\\Desktop\\Curso C# Nivel1\\C-Nivel-1---Kanban\\2 Primer Programa\\Calculadora\\Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "C:\\Users\\el10d\\OneDrive\\Escritorio\\Curso C# Nivel 1\\2 Primer Programa\\Calculadora\\Calculadora.csproj",
-      "packagesPath": "C:\\Users\\el10d\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\el10d\\OneDrive\\Escritorio\\Curso C# Nivel 1\\2 Primer Programa\\Calculadora\\obj\\",
+      "projectPath": "C:\\Users\\arturo\\Desktop\\Curso C# Nivel1\\C-Nivel-1---Kanban\\2 Primer Programa\\Calculadora\\Calculadora.csproj",
+      "packagesPath": "C:\\Users\\arturo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\arturo\\Desktop\\Curso C# Nivel1\\C-Nivel-1---Kanban\\2 Primer Programa\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\el10d\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\arturo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.418/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
